@@ -9,7 +9,7 @@ Why keyword extraction?
     
 
 Steps:
-    - install RAKE
+    - install RAKE, if encounter error, pip install rake first 
     - first pip install python-rake
-    - import RAKE
+    - import RAKE [uppercase matters]
     
