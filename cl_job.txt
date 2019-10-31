@@ -1,0 +1,36 @@
+Grammarly Computational Linguist JOb posting
+The opportunity
+
+Grammarly empowers people to thrive and connect, whenever and wherever they communicate. More than 20 million people around the world use our AI-powered writing assistant every day. All of this begins with our team collaborating in a values-driven and learning-oriented environment.
+
+To achieve our ambitious goals, we’re looking for a curious Computational Linguist with an interest in natural language processing, a passion for English, and an excellent knowledge of grammar. The role is vital to our ambitious journey to help people worldwide improve their communication, and the work will influence our product roadmap and help chart the course for the future of our company.
+
+Grammarly’s engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. Read more about our stack or hear from our team on our technical blog.
+
+Your impact
+
+To process natural language texts properly, we need to understand how the language functions, how it is learned, and how it evolves. This role will join our team of computational linguists and research engineers working with complex algorithms for detecting and correcting errors, ambiguities, and inefficiencies in natural language texts. As a Computational Linguist at Grammarly, you will:
+• Use rule-based and statistical methods in NLP to develop error-correction, style-improvement, consistency, and clarity checks as well as tone and sensitivity suggestions.
+• Conduct research on a variety of tasks, work with large corpora, and design new algorithms.
+• Research different modes, genres, and styles of writing to improve Grammarly’s performance.
+• Improve current text processing tools and implement new ones.
+• Coordinate resource-creation projects.
+• Mentor junior computational linguists.
+• Deepen knowledge and skills in NLP, and develop ML skills, depending on career trajectory.
+
+We’re looking for someone who
+• Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+• Holds an MS or PhD in Linguistics, Computational Linguistics, or another linguistics-related discipline.
+• Is fluent in English and have a great understanding of English grammar, syntax, semantics, and usage, especially for writing.
+• Has at least three years of experience in Computational Linguistics/NLP.
+• Has substantial experience in at least one programming language as well as working knowledge of NLP libraries and understanding of statistical methods in NLP.
+• Values and practices strong problem-solving, critical thinking, and analytical skills. (Experience teaching English as a first or a second language is preferred.)
+
+Support for you, professionally and personally
+• Professional growth: We hire people we trust, and we give team members autonomy to do their best work. We also support professional development with training, coaching, and regular feedback.
+• A connected team: Grammarly builds products that help people connect, and we apply this mindset to our own team. We have a highly collaborative culture supported by our EAGER values. We also take time to celebrate our colleagues and accomplishments with global, local, and team-specific events and programs.
+• Comprehensive benefits: Grammarly offers all team members competitive pay along with a benefits package that includes superior health care. We also offer ample and defined time off, catered lunches, gym and recreation stipends, admission discounts, and more.
+
+We encourage you to apply
+
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Grammarly will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance. Grammarly is an equal opportunity employer and participant in the U.S. Federal E-Verify program
