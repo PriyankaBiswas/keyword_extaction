@@ -1,0 +1,1 @@
+In this text summarization notebook, I extract tags/ keywords from titles and texts of questions. Data is found here: https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data.
